@@ -25,6 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
 <a href="https://linkedin.com/in/saheli-chowdhury-7a52602a7" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -36,6 +37,7 @@
 <a href="https://fb.com/ani9000" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
+
 </p>
 
 ---
@@ -68,14 +70,30 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Summary</h3>
 
 <p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saheli222c&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saheli222c&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=saheli222c&show_icons=true&theme=tokyonight" height="160"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheli222c&layout=compact&theme=tokyonight" height="160"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saheli222c&theme=tokyonight"/>
-</p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saheli222c&theme=tokyonight" />
+
+</p>
